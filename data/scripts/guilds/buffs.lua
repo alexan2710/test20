@@ -1,0 +1,3 @@
+-- src/guild.h contém valores, pesquise "// Buffs de Guilda"
+-- Buffs também são codificados em fontes
+-- arquivo de script mais inútil, autor: Oen44
